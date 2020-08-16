@@ -10,5 +10,9 @@ MLB_teams = {
 print(MLB_teams)
 
 # set
+fruits = {"orange", "pear", "banana", "grape", "mango", "black berries"}
+print(fruits)
 
 # tuple
+students = ("Chase", "Sanaz", "Abby")
+print(students)
